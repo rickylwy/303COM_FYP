@@ -17,7 +17,7 @@
 <li>Login to the account registered in MetaTrader 4
 <p><img src="https://www.eightcap.com/en/wp-content/uploads/sites/11/2019/09/dl-install-login-mt4-11-edit.jpg" alt="" width="1024" height="514" /></p>
 </li>
-<li>Extract the Programs.zip. There will be 2 folders: Experts and Indicators. Copy these two folders.</li>
+<li>Download and extract the Programs.zip. There will be 2 folders: Experts and Indicators. Copy these two folders.</li>
 <li>Click "File" -&gt; "Open Data Folder"
 <p><img src="https://img.nikonsrc.com/image/v_muduX9jHoVjeVK1lfHdGbnlmrcuA7CFcVZD_FQlwCgpMPV608JBE-cZqK6FRukgpeLFCvWMp0/item.JPG" alt="" width="1024" height="514" /></p>
 </li>
