@@ -40,4 +40,5 @@
 <li>To optimise the Expert Advisor, Click "View" on the menu bar. Click "Strategy Tester"
 <p><img src="https://www.mt4backtest.com/wp-content/uploads/2016/10/mt4-backtest-01-open-strategy-tester.png" alt="" width="1024" height="514" /></p>
 </li>
+<li><a href="https://www.metatrader4.com/en/trading-platform/help/autotrading/tester/tester_parameters" target="_blank" rel="noopener">MetaTrader 4 Official Documentations on the "Strategy Tester" feature</a></li>
 </ol>
